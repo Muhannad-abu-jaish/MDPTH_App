@@ -1,2 +1,6 @@
 # MDPTH_App
-First version of the application with internal DB
+First version of the application with internal DB with SQFLite
+ An application for physical therapists, allowing them to schedule recurring appointments for their patients, 
+ and follow-up is done from a personal file for each patient. Financial matters between the therapist and the
+ patients are also followed up. The therapist only needs to enter the patient's data and choose specific days,
+ and the appointment will be repeated automatically on the dedicated interface weekly.
