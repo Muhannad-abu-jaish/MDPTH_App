@@ -1,16 +1,1 @@
-# diaa_pth
-
-First Live Project
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+First version of the application with internal DB with SQFLite An application for physical therapists, allowing them to schedule recurring appointments for their patients, and follow-up is done from a personal file for each patient. Financial matters between the therapist and the patients are also followed up. The therapist only needs to enter the patient's data and choose specific days, and the appointment will be repeated automatically on the dedicated interface weekly.
